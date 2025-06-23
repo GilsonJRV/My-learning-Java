@@ -25,7 +25,7 @@ Aqui registro minha evolução desde os conceitos básicos até projetos mais co
 ## 🛠️ Tecnologias Utilizadas
 ![Java](https://img.shields.io/badge/Java-17+-orange?logo=openjdk)
 ![Git](https://img.shields.io/badge/Git-2.40+-blue?logo=git)
-![VS Code](https://img.shields.io/badge/Editor-VS_Code-purple?logo=visualstudiocode)
+![NetBeans](https://img.shields.io/badge/NetBeans-20-blue?logo=apache-netbeans-ide&logoColor=white&color=1B6AC6)
 
 ---
 
